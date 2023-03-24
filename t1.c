@@ -3,7 +3,7 @@
 int main(){
 
     
-    int a=9;
+    int a=999;
 
     int b=20;
     printf("%d",a);
